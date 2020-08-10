@@ -1,0 +1,380 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.my-bg h3{
+	font-size: 14px;
+	padding: 0.5625rem 0 0.1875rem;
+	padding-left: 1.5625rem;
+ background-image: url(../../img/zzy-destination-img/03/tu1.png);
+	background-repeat: no-repeat;
+	background-position:0.625rem 0.9375rem 
+}
+
+.my-bg  h4,h5{
+	font-size: 14px;
+	padding: 1.875rem 0 0.1875rem;
+	padding-left: 1.5625rem;
+	background-image: url(../../img/zzy-destination-img/03/tu1.png);
+	background-repeat: no-repeat;
+	background-position:0.625rem 2.125rem 
+}
+
+.my-bg ul{
+padding-left: 2.1875rem;
+}
+.my-bg  ul  li{
+float: left;
+padding-left: 0 0.5rem 0 0.5625rem;
+margin: 0 1.5625rem 0 -0.5625rem;
+/* white-space: nowrap; */
+list-style: none;	
+font-size: 12px;
+}
+
+
+.my-bg  ul  li a{
+	text-decoration: none;
+	color: #000000;
+}
+
+
+.zhou img{
+	position: relative;
+	width: 99%;
+}
+.zhou  span{
+	position: absolute;
+	width: 99%;
+	background-color: rgba(0,0,0,0.3);
+	top: 13.5rem;
+	margin: 0 auto;
+	text-align: center;
+	color: #fff;
+	font-size: 14px;
+	margin-left: -41.125rem;
+}
+
+.bgz{
+	text-decoration: none;
+	margin-top: 1.125rem;
+}
+.bgz  div{
+	line-height: 3.75rem;
+	margin: 0 auto;
+	color: #8da6ba;
+}
+.bgz div img{
+	margin-top: -0.3125rem;
+	margin-left: 0.3125rem;
+	margin-right: 0.3125rem;
+}
+
+.rig1 img{
+	/* padding-left: 45px; */
+}
+.rig1 img:nth-child(2){
+	padding-top: 0.625rem;
+	padding-bottom: 0.625rem;
+}
+
+.my-bg1{
+border: 1px solid #e1e5e8;
+position: relative;
+}
+
+.my-bg1 #d5 .we a:hover{
+	color: #e90;
+}
+.my-bg{
+	cursor: pointer;
+}
+#d5:hover{
+	background-color:rgba(0,0,0,0.1);
+}
+
+.we{
+	width: 100%;
+	margin-bottom: 3.75rem;
+}
+
+.xiaoguo{
+	position:absolute;
+	z-index: 999;
+	left: 284px;
+	top: -1px;
+	background-color: #fff;
+	width: 660px;
+	height: 460px;
+	border: 1px solid rgba(0,0,0,0.3);
+	box-shadow: 5px 3px 5px rgba(0,0,0,0.3);
+	display:none;
+}
+.xiaoguo .xiaohuo2{
+	width: 50%;
+	height: 33.333%;
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+  border-right: 1px solid rgba(0,0,0,0.1);
+}
+
+.xiaoguo span {
+	font-size: 12px;
+	padding:16px 0 10px 20px;
+	display: block;
+	cursor: auto;
+}
+
+
+.xiaoguo .xiaohuo2 ul li{
+	float: left;
+}
+
+.xiaoguo  ul li{
+	list-style: none;
+	margin: 0 5px 0 5px;
+}
+.xiaoguo  ul li a{
+	text-decoration: none;
+	color: #000000;
+	font-size: 10px;
+}
+
+.xiaoguo .xiaohuo3{
+	width: 50%;
+	height: 33.333%;
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+	border-right: 1px solid rgba(0,0,0,0.1);
+}
+.xiaohuo3 ul li{
+	float: left;
+	padding: 0 12px;
+}
+
+.xiaoguo .xiaohuo4{
+	width: 50%;
+	height: 38%;
+	bottom: 476px;
+	left: 330px;
+	position: relative;
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+	padding-bottom: 20px;
+}
+.xiaoguo .xiaohuo4 ul li{
+   float: left;
+	padding: 0 10px;
+}
+
+
+.xiaoguo  ul{
+	padding: 2px 10px 0 2px;
+}
+
+.xiaoguo .xiaohuo2 ul{
+	padding-left: 15px;
+}
+
+.xiaoguo  ul li{
+	padding-right: 15px;
+}
+
+#wwww1{
+	height: 33%;
+}
+#wwww2{
+	height: 27%;
+	border: 0;
+}
+
+#www5{
+	padding-top: 16px;
+}
+.my-bg1 #d5:hover   .xiaoguo{
+  display:block;
+}
+
+.my-bg1 #d5 ul li  :hover{
+	color: #EE9900;
+}
+
+.zzz h2{
+	margin-left: 0.625rem;
+	font-size: 18px;
+	font-weight: 700;
+	font-family: "microsoft yahei";
+	color: #e90;
+	margin: 0;
+}
+
+.zzz h2 span{
+	font-family: "microsoft yahei";
+	margin-right: 0.625rem;
+	margin-top: 1.1875rem;
+	color: #9fadbb;
+	font-size: 12px;
+}
+
+.zzz{
+	margin-top: 1.25rem;
+	border-bottom: 0.125rem solid  #e90;
+}
+
+.left2  h2{
+	padding: 0.1875rem 0 0.25rem;
+	font-size: 0.875rem;
+	height: 2rem;
+	line-height: 1.875rem;
+	font-weight: 700;
+}
+
+.left2 ul li{
+	list-style: none;
+	font-size: 0.75rem;
+	margin-top: 1.25rem;
+}
+.left2 ul li a{
+	text-decoration: none;
+	color: #3d3d3d;
+	font-weight: 600;
+}
+
+.left2 >ul >li>span{
+	font-size: 12px;
+	color:#3d3d3d;
+	font-weight: 600;
+	margin-right: 0.375rem;
+	padding: 0 0.3125rem;
+	border-radius: 0.25rem;
+	cursor: pointer;
+}
+.left2 >ul >li:nth-child(1)>span{
+	font-size: 12px;
+	color:#3d3d3d;
+	font-weight: 600;
+	margin-right: 0.375rem;
+	background-color:#ffc900;
+	padding: 0 0.3125rem;
+	border-radius: 0.25rem;
+}
+.left2 >ul >li:nth-child(2)>span{
+	font-size: 12px;
+	color:#3d3d3d;
+	font-weight: 600;
+	margin-right: 0.375rem;
+	background-color:#ffc900;
+	padding: 0 0.3125rem;
+	border-radius: 0.25rem;
+}
+.left2 >ul >li:nth-child(3)>span{
+	font-size: 12px;
+	color:#3d3d3d;
+	font-weight: 600;
+	margin-right: 0.375rem;
+	background-color:#ffc900;
+	padding: 0 0.3125rem;
+	border-radius: 0.25rem;
+}
+
+.left2 ul li a span{
+	color: #3d3d3d;
+	font-size: 12px;
+	float: right;
+}
+.left2 ul li:nth-child(1) a span{
+	color: #ff5741;
+	font-size: 14px;
+	float: right;
+}
+.left2 ul li:nth-child(2) a span{
+	color: #ff5741;
+	font-size: 14px;
+	float: right;
+}
+.left2 ul li:nth-child(3) a span{
+	color: #ff5741;
+	font-size: 14px;
+	float: right;
+}
+
+.menp{
+	margin-top: 0.625rem;
+}
+.menp  span{
+	margin-right: 0.9375rem;
+	color: #3d3d3d;
+	font-size: 12px;
+	font-weight: 500;
+	padding-left: 1.875rem;
+}
+
+.menp  ul li{
+	list-style: none;
+	margin-right: 1.875rem;
+	font-size: 12px;
+	line-height: 20px;
+	padding: 0 8px;
+}
+
+.menp  ul li :hover{
+	color: red;
+}
+
+.menp ul li a{
+	text-decoration: none;
+	color: #13334d;
+}
+
+.imgtop{
+	height: 9.5rem;
+	width: 11.25rem;
+	display: block;
+}
+
+
+.imgw {
+	padding-left: 1.875rem;
+}
+.imgw img{
+	margin-bottom: 0.3125rem;
+}
+.imgw  .q11{
+	margin-top: -2.1875rem;
+	display: inline-block;
+	background-color: rgba(255,255,255,0.8);
+	border-radius: 0.125rem;
+  width: 99%;
+	color: #3D3D3D;
+	font-size: 12px;
+	padding: 0 0 0 0.3125rem;
+	height: 1.5rem;
+	line-height: 1.5rem;
+	margin-left: 0.0625rem;
+	text-align: left;
+}
+ 
+ .imgw .q11 span{
+	 color: #ff5741;
+	 font-size: 18px;
+	 padding: 0 0.3125rem 0 0;
+	 margin: 0;
+	 float: right;
+ }
+.zzy{
+	margin-bottom: 0.625rem;
+}
+
+
+.bottom5 a{
+	display:inline-block;
+	text-decoration: none;
+}
+.bottom5 {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.bottom div{
+	height: 5rem;
+	width: 8.875rem;
+}

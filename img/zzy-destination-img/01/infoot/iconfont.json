@@ -1,0 +1,65 @@
+{
+  "id": "1924288",
+  "name": "text",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7639379",
+      "name": "实心圆形",
+      "font_class": "shixinyuanxing",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "7736497",
+      "name": "weixin",
+      "font_class": "weixin",
+      "unicode": "e933",
+      "unicode_decimal": 59699
+    },
+    {
+      "icon_id": "705665",
+      "name": "房子",
+      "font_class": "fangzi1",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "9512576",
+      "name": "房子",
+      "font_class": "home-fill",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "995973",
+      "name": "房子",
+      "font_class": "fangzi",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "2121746",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "2402040",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "2407248",
+      "name": "分类",
+      "font_class": "tubiao-",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    }
+  ]
+}

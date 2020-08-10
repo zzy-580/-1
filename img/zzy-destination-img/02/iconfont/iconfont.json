@@ -1,0 +1,16 @@
+{
+  "id": "1946510",
+  "name": "hhh",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "149986",
+      "name": "wangwang",
+      "font_class": "wangwang",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    }
+  ]
+}
